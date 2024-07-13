@@ -9,3 +9,9 @@
 input {
   color-scheme: dark;
 }
+
+.rdp-day_selected, .rdp-day_selected:focus-visible, .rdp-day_selected:hover {
+    color: #000;
+    opacity: 1;
+    background-color: #BEF264;
+}
